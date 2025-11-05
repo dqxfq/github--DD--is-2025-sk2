@@ -1,0 +1,15 @@
+C:\Users\doubravka.dostalova\Documents\GIT\github--DD--is-2025-sk2\IS-Programy\program004a-obdelnik\bin\Debug\net8.0\program004a-obdelnik.exe
+C:\Users\doubravka.dostalova\Documents\GIT\github--DD--is-2025-sk2\IS-Programy\program004a-obdelnik\bin\Debug\net8.0\program004a-obdelnik.deps.json
+C:\Users\doubravka.dostalova\Documents\GIT\github--DD--is-2025-sk2\IS-Programy\program004a-obdelnik\bin\Debug\net8.0\program004a-obdelnik.runtimeconfig.json
+C:\Users\doubravka.dostalova\Documents\GIT\github--DD--is-2025-sk2\IS-Programy\program004a-obdelnik\bin\Debug\net8.0\program004a-obdelnik.dll
+C:\Users\doubravka.dostalova\Documents\GIT\github--DD--is-2025-sk2\IS-Programy\program004a-obdelnik\bin\Debug\net8.0\program004a-obdelnik.pdb
+C:\Users\doubravka.dostalova\Documents\GIT\github--DD--is-2025-sk2\IS-Programy\program004a-obdelnik\obj\Debug\net8.0\program004a-obdelnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doubravka.dostalova\Documents\GIT\github--DD--is-2025-sk2\IS-Programy\program004a-obdelnik\obj\Debug\net8.0\program004a-obdelnik.AssemblyInfoInputs.cache
+C:\Users\doubravka.dostalova\Documents\GIT\github--DD--is-2025-sk2\IS-Programy\program004a-obdelnik\obj\Debug\net8.0\program004a-obdelnik.AssemblyInfo.cs
+C:\Users\doubravka.dostalova\Documents\GIT\github--DD--is-2025-sk2\IS-Programy\program004a-obdelnik\obj\Debug\net8.0\program004a-obdelnik.csproj.CoreCompileInputs.cache
+C:\Users\doubravka.dostalova\Documents\GIT\github--DD--is-2025-sk2\IS-Programy\program004a-obdelnik\obj\Debug\net8.0\program004a-obdelnik.sourcelink.json
+C:\Users\doubravka.dostalova\Documents\GIT\github--DD--is-2025-sk2\IS-Programy\program004a-obdelnik\obj\Debug\net8.0\program004a-obdelnik.dll
+C:\Users\doubravka.dostalova\Documents\GIT\github--DD--is-2025-sk2\IS-Programy\program004a-obdelnik\obj\Debug\net8.0\refint\program004a-obdelnik.dll
+C:\Users\doubravka.dostalova\Documents\GIT\github--DD--is-2025-sk2\IS-Programy\program004a-obdelnik\obj\Debug\net8.0\program004a-obdelnik.pdb
+C:\Users\doubravka.dostalova\Documents\GIT\github--DD--is-2025-sk2\IS-Programy\program004a-obdelnik\obj\Debug\net8.0\program004a-obdelnik.genruntimeconfig.cache
+C:\Users\doubravka.dostalova\Documents\GIT\github--DD--is-2025-sk2\IS-Programy\program004a-obdelnik\obj\Debug\net8.0\ref\program004a-obdelnik.dll

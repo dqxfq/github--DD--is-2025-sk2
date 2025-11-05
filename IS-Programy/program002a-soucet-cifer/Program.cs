@@ -1,33 +1,55 @@
-﻿using System;
-
-class Program
+﻿string again = "a";
+while (again == "a")
 {
-    static void Main()
+    Console.Clear();
+    Console.WriteLine("************************************************");
+    Console.WriteLine("*********** Součet a součin cifer  *************");
+    Console.WriteLine("************************************************");
+    Console.WriteLine("************************************************");
+    Console.WriteLine("************* Tomáš Žižka **********************");
+    Console.WriteLine("************** 2.10.2025 ***********************");
+    Console.WriteLine("************************************************");
+    Console.WriteLine("************************************************");
+    Console.WriteLine();
+
+    Console.Write("Zadejte celé číslo: ");
+    int number;
+    while (!int.TryParse(Console.ReadLine(), out number))
     {
-        Console.Write("Zadej celé číslo: ");
-        int cislo = int.Parse(Console.ReadLine());
-
-        int soucet = 0;
-        int soucin = 1;
-        int n = Math.Abs(cislo);
-
-        if (n == 0)
-        {
-            soucet = 0;
-            soucin = 0;
-        }
-        else
-        {
-            while (n > 0)
-            {
-                int cifra = n % 10;
-                soucet += cifra;
-                soucin *= cifra;
-                n /= 10;
-            }
-        }
-
-        Console.WriteLine($"Součet číslic: {soucet}");
-        Console.WriteLine($"Součin číslic: {soucin}");
+        Console.Write("Nezadali jste celé číslo. Zadejte ho znovu: ");
     }
+
+    int suma = 0;
+    int numberBackup = number;
+    int digit;
+
+    // Pokud je vstup záporný, tak ho změníme na kladný
+    if (number < 0)
+    {
+        number = -number;
+    }
+
+    while (number >= 10)
+    {
+        digit = number % 10; // určí se nám zbytek
+        number = (number - digit) / 10;
+        Console.WriteLine("Hodnota zbytku = {0}", digit);
+        suma = suma + digit;
+    }
+
+    // musíme poslední cifru vypsat
+    Console.WriteLine("Poslení zbytek = {0}", number);
+
+    // musíme poslední cifru přičíst
+    suma = suma + number;
+
+    Console.WriteLine();
+    Console.WriteLine("Součet cifer čísla {0} je {1}", numberBackup, suma);
+
+    Console.WriteLine();
+    Console.WriteLine("Pro opakování programu stiskněte klávesu a");
+    string input = Console.ReadLine() ?? "";
+
 }
+
+

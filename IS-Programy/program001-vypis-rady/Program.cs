@@ -6,7 +6,7 @@ while (again == "a")
     Console.WriteLine("*********** Výpis číselné řady *************");
     Console.WriteLine("********************************************");
     Console.WriteLine("********************************************");
-    Console.WriteLine("********** Doubravka Dostálová *************");
+    Console.WriteLine("************* Tomáš Žižka ******************");
     Console.WriteLine("************** 2.10.2025 *******************");
     Console.WriteLine("********************************************");
     Console.WriteLine("********************************************");
@@ -51,14 +51,6 @@ while (again == "a")
     Console.WriteLine("První číslo: {0}; Poslední číslo: {1}; Diference: {2}", first, last, step);
     Console.WriteLine("============================================");
 
-    
-
-
-
-
-
-
-
     // Výpis číselné řady
     Console.WriteLine();
     Console.WriteLine("============================================");
@@ -72,7 +64,8 @@ while (again == "a")
 
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stiskněte klávesu a");
-    again = Console.ReadLine();
+    string? input = Console.ReadLine();
 
 }
+
 

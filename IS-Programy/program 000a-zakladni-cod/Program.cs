@@ -3,10 +3,10 @@ while (again == "a")
 {
     Console.Clear();
     Console.WriteLine("********************************************");
-    Console.WriteLine("*********** Název programu *************");
+    Console.WriteLine("************ Název programu ****************");
     Console.WriteLine("********************************************");
     Console.WriteLine("********************************************");
-    Console.WriteLine("************* Tomáš Žižka ******************");
+    Console.WriteLine("********** Doubravka Dostálová *************");
     Console.WriteLine("************** 2.10.2025 *******************");
     Console.WriteLine("********************************************");
     Console.WriteLine("********************************************");
@@ -36,3 +36,5 @@ while (again == "a")
     again = Console.ReadLine();
 
 }
+
+
