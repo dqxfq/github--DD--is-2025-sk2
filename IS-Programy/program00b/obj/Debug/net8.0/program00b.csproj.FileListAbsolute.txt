@@ -1,0 +1,15 @@
+C:\Users\doubravka.dostalova\Documents\GIT\github--DD--is-2025-sk2\IS-Programy\program00b\bin\Debug\net8.0\program00b.exe
+C:\Users\doubravka.dostalova\Documents\GIT\github--DD--is-2025-sk2\IS-Programy\program00b\bin\Debug\net8.0\program00b.deps.json
+C:\Users\doubravka.dostalova\Documents\GIT\github--DD--is-2025-sk2\IS-Programy\program00b\bin\Debug\net8.0\program00b.runtimeconfig.json
+C:\Users\doubravka.dostalova\Documents\GIT\github--DD--is-2025-sk2\IS-Programy\program00b\bin\Debug\net8.0\program00b.dll
+C:\Users\doubravka.dostalova\Documents\GIT\github--DD--is-2025-sk2\IS-Programy\program00b\bin\Debug\net8.0\program00b.pdb
+C:\Users\doubravka.dostalova\Documents\GIT\github--DD--is-2025-sk2\IS-Programy\program00b\obj\Debug\net8.0\program00b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doubravka.dostalova\Documents\GIT\github--DD--is-2025-sk2\IS-Programy\program00b\obj\Debug\net8.0\program00b.AssemblyInfoInputs.cache
+C:\Users\doubravka.dostalova\Documents\GIT\github--DD--is-2025-sk2\IS-Programy\program00b\obj\Debug\net8.0\program00b.AssemblyInfo.cs
+C:\Users\doubravka.dostalova\Documents\GIT\github--DD--is-2025-sk2\IS-Programy\program00b\obj\Debug\net8.0\program00b.csproj.CoreCompileInputs.cache
+C:\Users\doubravka.dostalova\Documents\GIT\github--DD--is-2025-sk2\IS-Programy\program00b\obj\Debug\net8.0\program00b.sourcelink.json
+C:\Users\doubravka.dostalova\Documents\GIT\github--DD--is-2025-sk2\IS-Programy\program00b\obj\Debug\net8.0\program00b.dll
+C:\Users\doubravka.dostalova\Documents\GIT\github--DD--is-2025-sk2\IS-Programy\program00b\obj\Debug\net8.0\refint\program00b.dll
+C:\Users\doubravka.dostalova\Documents\GIT\github--DD--is-2025-sk2\IS-Programy\program00b\obj\Debug\net8.0\program00b.pdb
+C:\Users\doubravka.dostalova\Documents\GIT\github--DD--is-2025-sk2\IS-Programy\program00b\obj\Debug\net8.0\program00b.genruntimeconfig.cache
+C:\Users\doubravka.dostalova\Documents\GIT\github--DD--is-2025-sk2\IS-Programy\program00b\obj\Debug\net8.0\ref\program00b.dll
