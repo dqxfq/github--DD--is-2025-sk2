@@ -1,0 +1,4 @@
+C:\Users\Uzivatel\Desktop\git dd\github--DD--is-2025-sk2\IS-Programy\program013a-NSD-NSN\obj\Debug\net7.0\program013a-NSD-NSN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uzivatel\Desktop\git dd\github--DD--is-2025-sk2\IS-Programy\program013a-NSD-NSN\obj\Debug\net7.0\program013a-NSD-NSN.AssemblyInfoInputs.cache
+C:\Users\Uzivatel\Desktop\git dd\github--DD--is-2025-sk2\IS-Programy\program013a-NSD-NSN\obj\Debug\net7.0\program013a-NSD-NSN.AssemblyInfo.cs
+C:\Users\Uzivatel\Desktop\git dd\github--DD--is-2025-sk2\IS-Programy\program013a-NSD-NSN\obj\Debug\net7.0\program013a-NSD-NSN.csproj.CoreCompileInputs.cache

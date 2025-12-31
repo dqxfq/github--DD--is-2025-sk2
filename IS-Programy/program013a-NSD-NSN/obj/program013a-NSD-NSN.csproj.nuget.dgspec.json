@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Uzivatel\\Desktop\\git dd\\github--DD--is-2025-sk2\\IS-Programy\\program013a-NSD-NSN\\program013a-NSD-NSN.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Uzivatel\\Desktop\\git dd\\github--DD--is-2025-sk2\\IS-Programy\\program013a-NSD-NSN\\program013a-NSD-NSN.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Uzivatel\\Desktop\\git dd\\github--DD--is-2025-sk2\\IS-Programy\\program013a-NSD-NSN\\program013a-NSD-NSN.csproj",
+        "projectName": "program013a-NSD-NSN",
+        "projectPath": "C:\\Users\\Uzivatel\\Desktop\\git dd\\github--DD--is-2025-sk2\\IS-Programy\\program013a-NSD-NSN\\program013a-NSD-NSN.csproj",
+        "packagesPath": "C:\\Users\\Uzivatel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Uzivatel\\Desktop\\git dd\\github--DD--is-2025-sk2\\IS-Programy\\program013a-NSD-NSN\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Uzivatel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
