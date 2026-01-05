@@ -3,7 +3,7 @@ while (again == "a")
 {
     Console.Clear();
     Console.WriteLine("********************************************");
-    Console.WriteLine("*********** Výpis číselné řady *************");
+    Console.WriteLine("*************** obdélník *******************");
     Console.WriteLine("********************************************");
     Console.WriteLine("********************************************");
     Console.WriteLine("********** Doubravka Dostálová *************");
@@ -12,21 +12,32 @@ while (again == "a")
     Console.WriteLine("********************************************");
     Console.WriteLine();
 
-    Console.Write("Zadejte číslo výšky a šířky pravoúhlého trojůhelníku: ");
-    int rozmer;
-    while (!int.TryParse(Console.ReadLine(), out rozmer))
+    Console.Write("Zadejte číslo výšky obdélníku: ");
+    int vyska;
+    while (!int.TryParse(Console.ReadLine(), out vyska))
+    {
+        Console.Write("Nezadali jste celé číslo. Zadejte číslo znovu: ");
+    }
+Console.WriteLine();
+
+    Console.Write("Zadejte číslo sirka obdélníku: ");
+    int sirka;
+    while (!int.TryParse(Console.ReadLine(), out sirka))
     {
         Console.Write("Nezadali jste celé číslo. Zadejte číslo znovu: ");
     }
 
-for (int i = 1; i <= rozmer; i++)
+Console.WriteLine();
+
+    for(int i = 1; i<= vyska; i++)
     {
-        for (int j = 1; j <= i; j++)
+        for(int j = 1; j<= sirka; j++)
         {
-            Console.Write("*");
+            Console.Write(" # ");
         }
         Console.WriteLine();
     }
+
 
 
     Console.WriteLine("Pro opakování programu stiskněte klávesu a");

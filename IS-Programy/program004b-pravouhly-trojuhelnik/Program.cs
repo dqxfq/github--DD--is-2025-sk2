@@ -3,7 +3,7 @@ while (again == "a")
 {
     Console.Clear();
     Console.WriteLine("********************************************");
-    Console.WriteLine("*********** Výpis číselné řady *************");
+    Console.WriteLine("********* TROJUHEKNÍK PRAVOUHLY ************");
     Console.WriteLine("********************************************");
     Console.WriteLine("********************************************");
     Console.WriteLine("********** Doubravka Dostálová *************");
@@ -12,8 +12,8 @@ while (again == "a")
     Console.WriteLine("********************************************");
     Console.WriteLine();
 
-    Console.Write("Zadejte číslo výšky a šířky obdelníku : ");
-    int rozmer;a
+    Console.Write("Zadejte číslo výšky a šířky trojúhelníku : ");
+    int rozmer;
     while (!int.TryParse(Console.ReadLine(), out rozmer))
     {
         Console.Write("Nezadali jste celé číslo. Zadejte číslo znovu: ");
