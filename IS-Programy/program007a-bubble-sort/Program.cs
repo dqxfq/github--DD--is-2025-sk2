@@ -99,6 +99,11 @@ while (again == "a")
     Console.WriteLine();
     Console.WriteLine("Čas seřazení čísel pomocí BS: {0}", myStopwatch.Elapsed);
 
+     Console.WriteLine();
+
+
+
+
 
 
 
